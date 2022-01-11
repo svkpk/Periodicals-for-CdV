@@ -17,7 +17,7 @@ The dataset includes following titles:
 ## API documentation
 ### Title level
 
-*uuid:deef7979-70d9-455d-85d8-0d762fedfd80* - Der Pilsner Bote
+Example for [Der Pilsner Bote](https://kramerius.svkpk.cz/periodical/uuid:deef7979-70d9-455d-85d8-0d762fedfd80) *uuid:deef7979-70d9-455d-85d8-0d762fedfd80*
 
 **List of streams**
 
@@ -33,7 +33,7 @@ https://kramerius.svkpk.cz/search/api/client/v7.0/search?q=own_parent.pid:%22uui
 
 ### Volume level
 
-*uuid:6130f684-6e86-4d6a-a1df-96bfeb5959f1* - Der Pilsner Bote - 1869
+Example for [Der Pilsner Bote 13 (1869)](https://kramerius.svkpk.cz/periodical/uuid:6130f684-6e86-4d6a-a1df-96bfeb5959f1) *uuid:6130f684-6e86-4d6a-a1df-96bfeb5959f1* - 
 
 **List of child objects (issues)**
 
@@ -41,7 +41,7 @@ https://kramerius.svkpk.cz/search/api/client/v7.0/search?q=own_parent.pid:%22uui
 
 ### Issue level
 
-*uuid:311de1df-994f-4e7e-8c67-cb50237f3104* - Der Pilsner Bote - 1869 - 17 January
+Example for [Der Pilsner Bote 13(5) (17 January 1869)](https://kramerius.svkpk.cz/view/uuid:311de1df-994f-4e7e-8c67-cb50237f3104) *uuid:311de1df-994f-4e7e-8c67-cb50237f3104*
 
 **List of child objects (pages)**
 
@@ -49,7 +49,7 @@ https://kramerius.svkpk.cz/search/api/client/v7.0/search?q=own_parent.pid:%22uui
 
 ### Page level
 
-*uuid:d4b5dcac-50df-11ec-b6d4-001b63bd97ba*
+Example for [Der Pilsner Bote 13(5) (17 January 1869), p. 1](https://kramerius.svkpk.cz/view/uuid:9d903a75-4172-4bda-b0d3-a4bec2e719cc?page=uuid:766f9190-569d-11ec-bd75-001b63bd97ba)  *uuid:d4b5dcac-50df-11ec-b6d4-001b63bd97ba*
 
 **List of streams**
 
