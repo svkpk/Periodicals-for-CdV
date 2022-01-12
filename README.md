@@ -1,6 +1,6 @@
 # German-language periodicals published in Pilsen (CdV Ost³ 2022)
 
-Selected German-language periodicals published in Pilsen covering the second half of the 19th century, reporting on local and supra-regional events. All metadata, text content (ALTO) and page images are available within the API.
+Selected German-language periodicals published in Pilsen covering the second half of the 19th century, reporting on local and supra-regional events. All metadata, text content and page images are available within the API.
 
 The dataset includes following titles:
 
